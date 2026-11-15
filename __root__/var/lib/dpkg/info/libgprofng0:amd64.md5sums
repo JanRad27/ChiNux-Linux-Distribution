@@ -1,6 +1,0 @@
-78ced1e71fd16e9c945380a0bae65f5a  usr/lib/x86_64-linux-gnu/gprofng/libgp-collector.so
-fd82dfda3b06b64551261c1bf782adc8  usr/lib/x86_64-linux-gnu/gprofng/libgp-collectorAPI.so
-3aee284344915724365465352616e5ad  usr/lib/x86_64-linux-gnu/gprofng/libgp-heap.so
-96a31480d48115814a4aaabfa17e5113  usr/lib/x86_64-linux-gnu/gprofng/libgp-iotrace.so
-07406affe8e896bfe8e77fa1c91ec293  usr/lib/x86_64-linux-gnu/gprofng/libgp-sync.so
-09084dc05b27bdf5debf86937328358b  usr/lib/x86_64-linux-gnu/libgprofng.so.0.0.0
